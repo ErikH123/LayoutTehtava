@@ -109,7 +109,7 @@
                 android:layout_weight="0.6"
                 android:clickable="false"
                 android:longClickable="true"
-                android:text="Button3" />
+                android:text="@string/button3" />
         </LinearLayout>
 
     </LinearLayout>
